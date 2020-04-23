@@ -9,7 +9,9 @@
 ### Problem 1
 [Problem Link](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)
 [Code](variable_problem1.py)
+![](problem1-table.png)
 
 ### Problem 2
-
+[Problem Link](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 [Code](variable_problem2.py)
+![](problem2-table.png)
